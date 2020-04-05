@@ -1,5 +1,3 @@
 Name: Sohan  
 Phone: 01773008535
 Age:     23
-CGPA:   3.75 
-Address: Rajshahi
